@@ -47,3 +47,7 @@ img{
 .OL{
     padding: 0.5cm;
 }
+
+p{
+    max-width: 10cm;
+}
